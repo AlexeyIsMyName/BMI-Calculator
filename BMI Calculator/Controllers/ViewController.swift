@@ -34,4 +34,3 @@ class ViewController: UIViewController {
         print(weight / (height * height))
     }
 }
-
